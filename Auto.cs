@@ -9,5 +9,7 @@ public class Auto
     public string Merk {get; init;}
     public string Model {get; init;}
 
+    public int Tankinhoud {get; private set;}
+
 
 }
